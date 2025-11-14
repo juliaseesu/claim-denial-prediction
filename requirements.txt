@@ -1,0 +1,10 @@
+
+
+#Tools needed to run this program
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+
